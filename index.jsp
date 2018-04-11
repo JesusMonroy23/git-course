@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="css/style.css"/>
         <script src="js/script.js"></script>
         
-        <title>GNR napster Login git</title>
+        <title>t</title>
     </head>
     <body>
         <h2>LOL</h2>
