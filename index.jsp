@@ -15,7 +15,7 @@
         <title>t</title>
     </head>
     <body>
-        <h2>LOL</h2>
+        <h2>lele</h2>
         <div>
             <form action="login" method="post">
                 <p><input type="text" name="user" id="user"></p>
